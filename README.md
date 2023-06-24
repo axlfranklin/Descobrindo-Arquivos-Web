@@ -1,4 +1,4 @@
-<h1>Script na Fase de Reconhecimento em Pentest</h1>
+<h1>Script na Fase de Reconhecimento em Python para Pentest</h1>
 
 <h2>Descrição</h2>
 O projeto consiste em desenvolver um script que faz o reconhecimento de arquivos e diretórios em uma aplicação WEB, no caso utilizando ips para verificação.
