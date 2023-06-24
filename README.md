@@ -22,7 +22,7 @@ O projeto consiste em desenvolver um script que faz o reconhecimento de arquivos
 <h2>Andamento da Aplicação:</h2>
 
 <p align="center">
-Primeiro precisamos usar bibliotecas como Argeparse e Socket: <br/>
+Primeiro precisamos usar bibliotecas como Argparse e Socket: <br/>
 <img src="https://i.imgur.com/Y5WY3zH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
